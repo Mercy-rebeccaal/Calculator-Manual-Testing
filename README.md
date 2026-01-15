@@ -18,7 +18,7 @@ scenarios to ensure correct functionality and error handling.
 - BODMAS rule
 
 **Demo Site (Example):**
-https://www.calculator.net
+https://dunizb.github.io/sCalc/
 
 ---
 
